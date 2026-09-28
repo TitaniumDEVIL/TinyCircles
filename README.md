@@ -19,15 +19,6 @@ TinyCircles lets you draw any closed or continuous shape on a canvas with your m
 
 ---
 
-## Controls
-
-* **Left Click + Drag:** Draw your sketch on the screen
-* **Space:** Start or pause the Fourier reconstruction animation
-* **C:** Clear the canvas to start a new sketch
-* **Escape:** Close the application
-
----
-
 ## Building from Source
 
 ### Prerequisites

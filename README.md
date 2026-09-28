@@ -30,9 +30,9 @@ TinyCircles lets you draw any closed or continuous shape on a canvas with your m
 ## Learning Sources
 This project was built while learning Fourier transforms and signal processing. You can refer to these sources for a better understanding.
 
-3Blue1Brown: But what is a Fourier series? From heat flow to drawing with circles
-Pezzza's Work: How to program a Drawing Machine
-Jez Swanson: An Interactive Introduction to Fourier Transforms
+* 3Blue1Brown: But what is a Fourier series? From heat flow to drawing with circles
+* Pezzza's Work: How to program a Drawing Machine
+* Jez Swanson: An Interactive Introduction to Fourier Transforms
 
 ---
 

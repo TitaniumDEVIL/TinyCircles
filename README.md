@@ -1,3 +1,7 @@
+<img width="1280" height="720" alt="ScreenRecording2026-09-28145119-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/cfe3461c-2509-4056-b384-c1152af6d3d3" />
+
+---
+
 # TinyCircles
 
 A 2D drawing machine built in C++ using Raylib. It takes freehand mouse sketches and reconstructs them using rotating epicycles calculated with the Discrete Fourier Transform (DFT).
